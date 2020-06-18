@@ -1,0 +1,48 @@
+body{
+    font-size: 16px;
+    text-align: center;
+    font-family: Avenir, Helvetica, sans-serif;
+    overflow-x: hidden;
+    font-weight: 400;
+    background-color: #060606;
+    color: #FFFFFF;
+}
+
+/*<--- TYPOGRAPHY -*/
+
+h1{
+    font-weight: 700;
+    color: #FFFFFF;
+}
+h2{
+	font-weight: 700;
+	font-size: 28px;
+	padding: 50px;
+}
+h3{
+	font-weight: 700;
+	font-size: 15px;
+	line-height: 20px;
+}
+p{
+	letter-spacing: 0.5px;
+	line-height: 1.5em;
+	font-family: Georgia, serif;
+}
+a{
+    text-decoration: underline;
+}
+
+/*<--- UNIVERSAL -*/
+
+footer{
+	font-size: 15PX;
+	width: 100%;
+	padding: 20px 0;
+}
+footer a{
+    color: #FFFFFF;
+}
+footer a:hover{
+	opacity: .8;
+}
